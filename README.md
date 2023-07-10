@@ -26,7 +26,8 @@ Diploma project for National School for Practical Engineers at the Technion /  ×
 
 
 ### User Interface - Personal Data
-![User-Interface  Personal-Data](https://github.com/IaroslavKuts/table-tennis-leisure-spring-boot/assets/73539433/320b9d54-9aa8-4ce9-9025-838d4c7aa2f6)
+![User-Interface  Personal-Data](https://github.com/IaroslavKuts/table-tennis-leisure-spring-boot/assets/73539433/ed0d29a7-e1bd-427a-8586-fee31bdac39e)
+
 
 
 ### User Interface - My Orders
